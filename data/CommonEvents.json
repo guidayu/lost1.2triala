@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"list":[{"code":122,"indent":0,"parameters":[1,1,0,2,1,100]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["得到的数字是\\V[1]"]},{"code":111,"indent":0,"parameters":[1,1,0,10,2]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["得到金色传说！"]},{"code":115,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":111,"indent":0,"parameters":[1,1,0,40,2]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["得到银色品质！"]},{"code":115,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":111,"indent":0,"parameters":[1,1,0,60,2]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["得到普通奖励！"]},{"code":115,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":111,"indent":0,"parameters":[1,1,0,100,2]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["得到安慰品！"]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+]
